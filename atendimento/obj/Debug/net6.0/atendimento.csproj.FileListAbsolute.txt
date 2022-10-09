@@ -1,0 +1,7 @@
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.csproj.AssemblyReference.cache
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.AssemblyInfoInputs.cache
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.AssemblyInfo.cs
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.csproj.CoreCompileInputs.cache
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabalho C#\atendimento\obj\Debug\net6.0\atendimento.MvcApplicationPartsAssemblyInfo.cache
